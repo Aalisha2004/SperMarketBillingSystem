@@ -105,15 +105,6 @@ g++ supermarket.cpp -o supermarket
 * Admin credentials are hardcoded — for real applications, use secure authentication.
 * Uses `goto` statements for menu navigation (not recommended for modern C++ practices).
 
----
-
-## 📌 To Do (Optional Improvements)
-
-* Replace `goto` with loop structures for better code readability.
-* Implement file locking to prevent data corruption.
-* Add timestamp and user info to the receipt.
-* Enhance UI with proper spacing and headers.
-* Use structs/classes for better product encapsulation.
 
 ---
 
